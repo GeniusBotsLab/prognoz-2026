@@ -1,2 +1,53 @@
-# prognoz-2026
-Detailed 2026 conflict forecast and scenario research with month-by-month analysis, regional breakdowns, and source overview.
+# Прогноз 2026
+
+Это индекс папки с прогнозом войн и эскалаций на 2026 год.
+
+## Оглавление
+
+### 1. Общая картина
+
+- [Краткий обзор](01-overview/summary.md)
+- [Полный общий обзор](01-overview/full-overview.md)
+
+### 2. Календарь 2026
+
+- [Помесячный календарь 2026](02-calendar/month-by-month.md)
+
+### 3. Театры конфликтов
+
+- [Украина и Европа](03-theaters/ukraine-and-europe.md)
+- [Ближний Восток](03-theaters/middle-east.md)
+- [Восточная Азия и Индо-Тихоокеанский регион](03-theaters/asia-and-indo-pacific.md)
+- [Африка](03-theaters/africa.md)
+
+### 4. Сценарии исхода
+
+- [Кто с кем и как будут выстраиваться стороны](04-scenarios/alignments.md)
+- [Чем может закончиться 2026 год](04-scenarios/end-states.md)
+
+### 5. Источники
+
+- [Обзор источников](05-sources/sources-overview.md)
+
+## Как читать
+
+Если нужно быстро понять суть:
+
+1. Сначала открой [Краткий обзор](01-overview/summary.md)
+2. Потом [Помесячный календарь 2026](02-calendar/month-by-month.md)
+3. Затем нужный театр в разделе `03-theaters`
+4. После этого смотри [сценарии исхода](04-scenarios/end-states.md)
+
+## Что где лежит
+
+- `01-overview` - вводная часть и общая логика года.
+- `02-calendar` - календарная раскладка по месяцам.
+- `03-theaters` - отдельные развернутые файлы по регионам.
+- `04-scenarios` - коалиции, стороны, базовый, лучший и худший варианты.
+- `05-sources` - обзор использованных источников и логики отбора.
+
+## Связанные файлы старой версии
+
+- [Базовый прогноз](forecast-2026.md)
+- [Подробный единый документ](forecast-2026-detailed.md)
+- [Старый обзор источников](sources-overview.md)
